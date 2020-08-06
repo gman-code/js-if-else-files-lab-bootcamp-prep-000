@@ -4,4 +4,6 @@ test
 // Don't worry about this
 module.exports = { name, height
 }
-IF (Epected: Susan, Recieved: joe)
+if(Expected: Susan, Recieved: joe)
+console.log("the name is correct")
+if (Expected: 70, Recieved: 74)
